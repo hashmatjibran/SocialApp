@@ -1,0 +1,11 @@
+.trash{
+    color: rgb(222, 103, 103);
+}
+.trash:hover{
+    color: red;
+}
+
+.userList{
+
+    font-size: 2rem;
+}

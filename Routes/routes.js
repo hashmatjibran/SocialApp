@@ -18,5 +18,6 @@ router.use('/news',require('./news'));
 
 
 
+
 // Finally exporting the router to use in our app entry point
 module.exports = router;
